@@ -1,2 +1,2 @@
-# Smart-Watch
-stm32,Smart Watch
+# Smart-Home
+stm32,Smart Home
